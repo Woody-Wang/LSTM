@@ -15,5 +15,6 @@ the result
 ## Hardware and Software Setup
 
 -----------------------------------------------------------------------------------------------------------------------
+<img width="643" alt="螢幕擷取畫面 2021-07-24 122309" src="https://user-images.githubusercontent.com/85031209/126857206-62240f2f-9f93-4319-bdb9-75f8ecf21ea0.png">
 
 
