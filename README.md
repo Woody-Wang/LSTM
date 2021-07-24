@@ -1,3 +1,4 @@
+<img width="450" alt="PC2" src="https://user-images.githubusercontent.com/85031209/126856966-43509b72-73ea-45c5-972a-2d60e5660745.png">
 # LSTM Human-Activity-Recognition
 
 ------------------------------------------
